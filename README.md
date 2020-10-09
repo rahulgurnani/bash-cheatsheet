@@ -1,7 +1,5 @@
 # Bash cheatsheet
 
-## Compilation of Julia Evans Zines for starters
-
 Shell script arguments:
 https://twitter.com/b0rk/status/1308070270809317377/photo/1
 
