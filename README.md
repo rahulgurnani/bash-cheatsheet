@@ -1,5 +1,12 @@
 # Bash cheatsheet
 
+Pipe logs and also see them:
+
+```
+script.sh |& tee logs.txt
+```
+
+
 Shell script arguments:
 https://twitter.com/b0rk/status/1308070270809317377/photo/1
 
